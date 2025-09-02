@@ -27,12 +27,12 @@ const About = () => {
             {activeSection === 'education' && (
               <div>
                 <div>
-                  <p > <span className='text-red-300'>2019 - 2023 </span>B.Tech (ECE)</p>
-                  <p>NIET, Greater Noida</p>
+                  <p className='md:text-xl tracking-wide text-lg'> <span className='text-red-300 md:text-xl tracking-wide text-lg'>2019 - 2023 </span>B.Tech (ECE)</p>
+                  <p className='md:text-xl tracking-wide text-lg'>NIET, Greater Noida</p>
                 </div>
                 <div className='mt-3 mb-3'>
-                  <p > <span className='text-red-300'>2017 - 2019 </span>12th </p>
-                  <p>S.R.K.Goenka College,Sitamarhi,Bihar</p>
+                  <p className='md:text-xl tracking-wide text-lg' > <span className='text-red-300 '>2017 - 2019 </span>12th </p>
+                  <p className='md:text-xl tracking-wide text-lg'>S.R.K.Goenka College,Sitamarhi,Bihar</p>
                 </div>
               </div>
             )}
