@@ -31,8 +31,8 @@ const About = () => {
                   <p>NIET, Greater Noida</p>
                 </div>
                 <div className='mt-3 mb-3'>
-                  <p > <span className='text-red-300'>2017 - 2019 </span>12th S.R.K.Goenka College,Sitamarhi,Bihar</p>
-                  <p>NIET, Greater Noida</p>
+                  <p > <span className='text-red-300'>2017 - 2019 </span>12th </p>
+                  <p>S.R.K.Goenka College,Sitamarhi,Bihar</p>
                 </div>
               </div>
             )}
