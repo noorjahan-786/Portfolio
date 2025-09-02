@@ -32,7 +32,7 @@ const About = () => {
                 </div>
                 <div className='mt-3 mb-3'>
                   <p className='md:text-xl tracking-wide text-lg' > <span className='text-red-300 '>2017 - 2019 </span>12th </p>
-                  <p className='md:text-xl tracking-wide text-lg'>S.R.K.Goenka College,Sitamarhi,Bihar</p>
+                  <p className='md:text-xl tracking-wide text-lg'>S.R.K.Goenka College, Sitamarhi, Bihar</p>
                 </div>
               </div>
             )}
