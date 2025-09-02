@@ -34,10 +34,6 @@ const About = () => {
                   <p > <span className='text-red-300'>2017 - 2019 </span>12th S.R.K.Goenka College,Sitamarhi,Bihar</p>
                   <p>NIET, Greater Noida</p>
                 </div>
-                <div>
-                  <p > <span className='text-red-300'>2019 - 2023 </span>B.Tech (ECE)</p>
-                  <p>NIET, Greater Noida</p>
-                </div>
               </div>
             )}
             
