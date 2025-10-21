@@ -65,7 +65,7 @@ const Home = () => {
               </div>
               <br/>
               <div className='flex justify-center items-center'>
-                    <a  href='/noor-updatedCV.pdf' target='_blank' className='bg-gradient-to-br from-blue-400 to-blue-900 inline-block py-3 px-8 text-white rounded-full text-lg font-bold transition duration-300 transform hover:scale-105'
+                    <a  href='./noor-updatedCV.pdf' target='_blank' className='bg-gradient-to-br from-blue-400 to-blue-900 inline-block py-3 px-8 text-white rounded-full text-lg font-bold transition duration-300 transform hover:scale-105'
                     style={{
                       
                       boxShadow:'0 0 1px #60a5fa, 0 0 1px #3b82f6, 0 0 10px #1e3a8a',
